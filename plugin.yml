@@ -1,0 +1,8 @@
+name: Virgil
+version: 1.0.0
+authors: [ trainphreak, imarki360 ]
+main: com.grid_tronix.the.virgil.Virgilepend: [ Vault ]
+commands:
+  virgil:
+    description: Virgil Core Command
+    usage: /virgil
